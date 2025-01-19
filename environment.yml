@@ -1,7 +1,9 @@
-name: numericalmethods
+name: applied-inversion-methods
 dependencies:
- - jupyter
- - numpy
- - scipy
- - matplotlib
- - devito
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - pip
+  - pip:
+      - devito
